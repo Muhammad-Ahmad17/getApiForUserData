@@ -166,10 +166,10 @@ aws s3 sync build/ s3://<your-bucket-name>
 3. Copy the **Bucket website endpoint**
 4. Open it in your browser 🎉
 
----
 
 ## 🌐 Live Demo
 
 You can check out the live app (hosted on AWS Free Tier) before it expires:
 
 [Live Demo](http://user-processing-system-ahmad.s3-website-us-east-1.amazonaws.com/)
+![Proof of Hosting](image.png)
